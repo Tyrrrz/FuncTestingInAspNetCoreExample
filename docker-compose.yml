@@ -15,5 +15,3 @@ services:
 
   redis:
     image: redis
-    environment:
-      POSTGRES_PASSWORD: postgres
